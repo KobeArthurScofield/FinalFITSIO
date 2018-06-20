@@ -5,3 +5,7 @@
 # Python 3.6.2 / Anaconda 5.1.0 (x86-64)
 # IDE: Microsoft Visual Studio 15.7.3
 # IDE: Microsoft Visual Studio 15.7.4
+
+# This micro llib includes:
+# iodp (For file operation and displays)
+# transfercore (For data processing and compounding)

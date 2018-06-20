@@ -22,12 +22,21 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="FinalFITSIO.py" />
+    <Compile Include="llib\iodp.py" />
+    <Compile Include="llib\transfercore.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="llib\__init__.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="llib\" />
+    <Folder Include="Sample\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sample\IMG_20180618_150411_Mono_Tagged.fits" />
+    <Content Include="Sample\IMG_20180618_150411_Mono_Tagged.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
