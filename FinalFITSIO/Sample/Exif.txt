@@ -1,0 +1,45 @@
+ImageWidth                  3456
+ImageLength                 4608
+BitsPerSample               (8, 8, 8)
+PhotometricInterpretation   2
+ImageDescription            Watching outside
+Make
+Model                       Nokia 7
+Orientation                 1
+YCbCrPositioning            1
+SamplesPerPixel             3
+XResolution                 (720000, 10000)
+YResolution                 (720000, 10000)
+GPSInfo                     {1: 'N', 2: ((22, 1), (31, 1), (97253, 10000)), 3: 'E', 4: ((113, 1), (3, 1), (581032, 10000)), 5: b'\x00', 6: (28881, 1000), 7: ((7, 1), (4, 1), (10, 1)), 27: 'ASCII\x00\x00\x00GPS', 29: '2018:06:18'}
+ResolutionUnit              2
+ExifOffset                  352
+Software                    Adobe Photoshop CC 2018 (Windows)
+DateTime                    2018:06:21 00:21:07
+Artist                      Kobe Arthur Scofield
+ExifVersion                 b'0220'
+ComponentsConfiguration     b'\x01\x02\x03\x00'
+ShutterSpeedValue           (5058, 1000)
+DateTimeOriginal            2018:06:18 15:04:11
+DateTimeDigitized           2018:06:18 15:04:11
+ApertureValue               (169, 100)
+BrightnessValue             (130, 100)
+MeteringMode                2
+FlashPixVersion             b'0100'
+Flash                       16
+FocalLength                 (3890, 1000)
+ColorSpace                  65535
+ExifImageWidth              864
+FocalLengthIn35mmFilm       5
+SceneCaptureType            0
+SubsecTime                  146246
+SubsecTimeOriginal          146246
+SubsecTimeDigitized         146246
+ExifImageHeight             1152
+SensingMethod               2
+ExposureTime                (1, 33)
+FNumber                     (180, 100)
+SceneType                   b'\x01'
+ExposureProgram             0
+ISOSpeedRatings             160
+ExposureMode                0
+WhiteBalance                0

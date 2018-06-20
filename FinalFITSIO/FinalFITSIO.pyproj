@@ -35,6 +35,7 @@
     <Folder Include="Sample\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Sample\Exif.txt" />
     <Content Include="Sample\IMG_20180618_150411_Mono_Tagged.fits" />
     <Content Include="Sample\IMG_20180618_150411_Mono_Tagged.jpg" />
   </ItemGroup>
